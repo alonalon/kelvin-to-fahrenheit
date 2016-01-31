@@ -1,0 +1,38 @@
+{
+  "name": "kelvin-to-fahrenheit",
+  "version": "1.0.0",
+  "description": "Convert Kelvin to Fahrenheit",
+  "license": "MIT",
+  "repository": "alonalon/kelvin-to-fahrenheit",
+  "author": {
+    "name": "alonalon",
+    "email": "aronhafner@gmail.com",
+    "url": "github.com/alonalon"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "kelvin",
+	"fahrenheit",
+	"convert",
+	"temp",
+	"temperature"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "^0.11.0",
+    "xo": "^0.11.2"
+  },
+  "xo": {
+    "ignores": [
+      "test.js"
+    ]
+  }
+}
