@@ -28,7 +28,7 @@ kelvinToFahrenheit(300);
 
 Type: `number`
 Required
-Number to convert
+Number to convert.
 
 ## License
 
