@@ -25,9 +25,8 @@ kelvinToFahrenheit(300);
 ### kelvinToFahrenheit(input)
 
 #### input
-
-Type: `number`
 Required
+Type: `number`
 Number to convert.
 
 ## License
